@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About Me
-
 I'm a musician, projection artist, and lighting designer based in Brooklyn, NY. 
 
 ### Contact Me
