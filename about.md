@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### About me
+### About Me
 
 I'm a musician, projection artist, and lighting designer based in Brooklyn, NY. 
 
-### Contact me
+### Contact Me
 
 [dominickpchang@gmail.com](mailto:email@domain.com)
