@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a musician, projection artist, and lighting designer based in Brooklyn, NY. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dominickpchang@gmail.com](mailto:email@domain.com)
