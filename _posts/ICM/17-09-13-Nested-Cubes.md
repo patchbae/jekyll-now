@@ -26,7 +26,7 @@ I was pretty happy with how this turned out, but I was having some fun at this p
 
 [Rainbow Cubes](https://alpha.editor.p5js.org/patchbae/sketches/H1p2bLI5b)
 
-<iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/H1p2bLI5b" scrolling="no"></iframe>
+<iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/H1p2bLI5b" scrolling="no"></iframe>
 
 
 
