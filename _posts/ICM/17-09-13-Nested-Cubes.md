@@ -24,7 +24,7 @@ Cool, that kinda worked too! However, if you open the link, you can notice the e
 
 I was pretty happy with how this turned out, but I was having some fun at this point and decided to see how far I could take it before I fell asleep. It's worthy of its own blog post at some point, but I'll just post the results below for now:
 
-<iframe src="https://alpha.editor.p5js.org/embed/H1p2bLI5b"></iframe>
+<iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/H1p2bLI5b"></iframe>
 
 
 
