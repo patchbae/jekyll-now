@@ -16,4 +16,13 @@ This yielded a pretty decent result considering the math was guesstimated. I def
 
 ![First Cube Tesselation]({{ site.url }}/images/FirstCubeCode_Tessa.png)
 
+Cool, that kinda worked too! However, if you open the link, you can notice the edges of the cubes overlap slightly in the vertical domain. I also noticed that the cubes looked to tall. So I knew I'd need to adjust my function for drawing the cube and then adjust my verticals displacements if I wanted them to be flush. I did some math and calculated the proper vertical displacement to be the square root of 2 (1.414). My coordinate system revolves around the center point for each cube, so I had to factor those displacement values into it as well. I could have done some trigonometry to figure out the perfect vertical displacement, but it was easy enough to play with until getting a satisfactory result
+
+So factoring all of that into account, this was the end result:
+
+[First Cube Tesselation_Fixed Height](http://alpha.editor.p5js.org/patchbae/sketches/rynS11wcZ)
+
+![First Cube Tesselation]({{ site.url }}/images/FirstCubeCode_Tessa_Height.png)
+
+
 
