@@ -1,6 +1,6 @@
 ---
  -layout: post
- -title: "Nested Cubes"
+ -title: Nested Cubes
 ---
 
 I initially decided to make a series of nested cubes, using a 3-color palette. I figured I would go about this by drawing three quads to make a cube, encapsulating the cube code into a function, and then performing displacements after that. Let's start with figuring out how to draw a cube and center it on the screen... 
