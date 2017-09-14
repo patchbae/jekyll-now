@@ -1,7 +1,7 @@
----
- -layout: post
- -title: "Coding Language"
- 
+--- 
+layout: post
+title: Coding Language
+
 ---
 
 Music has been my second language for most of my life. It has syntax, structure, flow, and most importantly, pattern. When you're learning music, of course you need to learn the syntax and structures, but whether you realize it or not, you're just learning a bunch of patterns. Every rhythm, scale, chord, harmonic structure, can be reduced to simple patterns. And while a Rachmaninoff piano concierto is a daunting thing to try and learn all at once, I guarantee anyone could sit down and figure out bits of it, line by line, bar by bar. 
