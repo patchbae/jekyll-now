@@ -1,7 +1,9 @@
 ---
  -layout: post
  -title: 'Coding Language'
+ 
 ---
+
 Music has been my second language for most of my life. It has syntax, structure, flow, and most importantly, pattern. When you're learning music, of course you need to learn the syntax and structures, but whether you realize it or not, you're just learning a bunch of patterns. Every rhythm, scale, chord, harmonic structure, can be reduced to simple patterns. And while a Rachmaninoff piano concierto is a daunting thing to try and learn all at once, I guarantee anyone could sit down and figure out bits of it, line by line, bar by bar. 
 
 Let's extrapolate and say that music and coding are both languages, each with their own thought patterns. I would argue that coding is instrinsic to human society under this definition. Technologies are extensions of the human form, with music as extensions of our voice and computers as extensions of the mind. Of course, our minds and computers do not function in the same way, but we can understand how a computer thinks and we can mimic that logic flow in our thoughts, allowing us to create code. 
