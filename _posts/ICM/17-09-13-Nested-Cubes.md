@@ -1,6 +1,6 @@
 ---
- -layout: post
- -title: "A Series of Cubes"
+ layout: post
+ title: "A Nest of Cubes"
  
 ---
 
