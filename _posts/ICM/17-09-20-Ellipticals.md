@@ -17,5 +17,5 @@ The next logical step was to add movement in the vertical dimension. I also want
 The last stage was just to add a bit more symmetry. All I needed to do for this was to change the range of the mapping so that the minimum was a negative number.
 
 #### [Mirrored](http://alpha.editor.p5js.org/patchbae/sketches/HJ12nVxoZ) 
-<iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/HJ12nVxoZ" scrolling="no"></iframe>
+<iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/HJ12nVxoZ"></iframe>
 
