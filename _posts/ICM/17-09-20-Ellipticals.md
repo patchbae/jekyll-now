@@ -21,4 +21,5 @@ The last stage was just to add a bit more symmetry. All I needed to do for this 
 
 #### [Mirrored](http://alpha.editor.p5js.org/patchbae/sketches/HJ12nVxoZ) 
 
-<iframe width="600" height="400" src="http://alpha.editor.p5js.org/embed/HJ12nVxoZ"> </iframe>
+<iframe width="600" height="400" src="http://alpha.editor.p5js.org/embed/HJ12nVxoZ" scrolling="no"></iframe>
+
