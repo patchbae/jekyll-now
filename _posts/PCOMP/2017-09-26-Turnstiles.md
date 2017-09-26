@@ -7,7 +7,9 @@ I was having a hard time picking what piece of technology to survey for this pro
 
 The card reader and turnstile act as a measure to ensure riders pay their fare for riding the subway and to relay information about the user's MetroCard. The turnstiles also help keep track of the amount of riders. There are two types of turnstiles in use as far as I have observed: the horizontal turnstile and the vertical turnstile. 
 
-![Horizontal]({{ site.url }}/images/HorizontalTurnstile.jpg)|![Vertical]({{ site.url }}/images/VerticalTurnstile.jpg)
+![Horizontal]({{ site.url }}/images/HorizontalTurnstile.jpg)
+
+![Vertical]({{ site.url }}/images/VerticalTurnstile.jpg)
 
 The interface seems fairly simple, swipe the card and walk through the turnstile, yet there are a number of issues I've witnessed with these designs over the past few years of my commutes. Since the reader mechanism is the same for both vertical and horizontal turnstiles, I'll discuss the reader first and then the different turnstiles separately.
 
