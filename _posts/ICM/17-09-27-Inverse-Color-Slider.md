@@ -5,7 +5,7 @@ title: Inverse Color Slider
 
 ---
 
-My goal setting out was to make an RGB color mixer with three faders created by a function. I will preface this all by saying I did not succeed. I began the assignment by tackling challenge 1 from the homework page, which involved using a for loop to generate multiple dots that would change color on rollover.
+My goal setting out was to make an RGB color mixer with three faders created by a function. I will preface this all by saying I did not succeed. I began the assignment by tackling challenge 1 and 2 from the homework page, which involved using a for loop to generate multiple dots that would change color on rollover.
 
 #### [Rollover Hold](https://alpha.editor.p5js.org/patchbae/sketches/S1ObN2ds-)
  The challenge was to have the dot which was last rolled over remain a different color until another dot was rolled over. The approach was to use if, else if, and else statements to determine if the mouse was over a dot, and if not, to remember which dot the mouse was last over. This took me a lot longer than I had hoped it would, but it all made sense once I figured it out. 
