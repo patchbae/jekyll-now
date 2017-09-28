@@ -12,7 +12,7 @@ Here is the original ticket:
 
 And here was my first design:
 
-![Re-Design]({{ site.url }}/images/TicketDesign .png)
+![Re-Design]({{ site.url }}/images/TicketDesign.png)
 
 After giving it some thought, I realized that it would probably be best to maintain the original orientation of the second barcode, so that scanning the ticket would remain the same. I also added back the emphasis for the seat number and zone, in addition to making some minor position adjustments. I was happier with the second design, and thought it did a better of job of maintaining the original layout while making it substantially more legible.
 
