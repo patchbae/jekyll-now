@@ -9,10 +9,10 @@ Blair and I decided to work on her chicken game, but we only had the opportunity
 
 <iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/ByJQ7Tpc-" scrolling="no"></iframe>
 
-#### [RGB Slider](http://alpha.editor.p5js.org/blairsimmons/sketches/HJFnMKf3W)
+#### [RGB Slider](https://alpha.editor.p5js.org/patchbae/sketches/HJ1Y53f3W)
 After managing to get my fader function working last week with arrays, I decided to make my own RGB fader. The faders control the background color. Blair added the section that gives the numerical readouts for the individual RGB values.
 
-<iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/HJFnMKf3W" scrolling="no"></iframe>
+<iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/HJ1Y53f3W" scrolling="no"></iframe>
 
 #### [Recursion](https://alpha.editor.p5js.org/patchbae/sketches/HyiGpFFjb)
 I was looking at one of Daniel Shiffman's recursive examples and started playing around with making an animation. This was the result:
