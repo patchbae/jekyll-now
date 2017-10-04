@@ -17,6 +17,6 @@ After managing to get my fader function working last week with arrays, I decided
 #### [Recursion](https://alpha.editor.p5js.org/patchbae/sketches/HyiGpFFjb)
 I was looking at one of Daniel Shiffman's recursive examples and started playing around with making an animation. This was the result:
 
-<iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/HyiGpFFjb" scrolling="no"></iframe>
+<iframe width="720" height="640" src="https://alpha.editor.p5js.org/embed/HyiGpFFjb" scrolling="no"></iframe>
 
 
