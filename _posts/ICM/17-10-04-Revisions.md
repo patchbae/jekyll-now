@@ -15,7 +15,7 @@ After managing to get my fader function working last week with arrays, I decided
 <iframe width="400" height="400" src="https://alpha.editor.p5js.org/embed/HJ1Y53f3W" scrolling="no"></iframe>
 
 #### [Recursion](https://alpha.editor.p5js.org/patchbae/sketches/HyiGpFFjb)
-I was looking at one of Daniel Shiffman's recursive examples and started playing around with making an animation. This was the result:
+I was looking at one of Daniel Shiffman's recursive examples and started playing around with making an animation. I wanted to make something that demonstrating wave patterns. This was the result:
 
 <iframe width="720" height="640" src="https://alpha.editor.p5js.org/embed/HyiGpFFjb" scrolling="no"></iframe>
 
