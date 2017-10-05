@@ -10,7 +10,7 @@ The format for this assignment was to create six square compositions that utiliz
 
 ![Top Left]({{ site.url }}/images/Bottom Left.png)|![Top Center]({{ site.url }}/images/Bottom Center.png)|![Top Right]({{ site.url }}/images/Bottom Right.png)
 
-And here is a link to my actual [Instagram page![(https://www.instagram.com/dom.chang/)
+And here is a link to my actual [Instagram page!](https://www.instagram.com/dom.chang/)
 
 I've been doing a lot of lighting design for the past two years, and my go-to starting palettes are all built around the RGB and CMY color spaces. I like using these color models since they help conceptualize both additive and subtractive methods of color mixing, while also existing easy points to build gradients off of. It is also really easy to add points between them, and go to a 12-tone color palette, which is great for audiovisual works as you can map colors to the musical notes. I also really enjoy using simple geometry in my design, as I believe the simplest shapes are some of the most powerful. The colors themselves are representative of me because I enjoy incorporating and merging as many facets of my works as possible, so as to create a holistic and all-encompassing design. 
 
