@@ -16,7 +16,7 @@ I've been doing a lot of lighting design for the past two years, and my go-to st
 
 Here is my current logo, which uses a 12-tone color palette based on the mixes of RGB and CMY. The dog is my friend's pug; her name is Louie:
 
-![Puggo]({{ site.url }}/images/puggo.jpg)
+![Puggo]({{ site.url }}/images/puggo.JPG)
 
 
 
