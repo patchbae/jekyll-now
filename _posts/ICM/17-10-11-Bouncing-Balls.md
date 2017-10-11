@@ -5,7 +5,7 @@ title: Bouncing Balls
 
 ---
 
-I wanted to expand on the bouncing ball example that was presented a few classes ago, and with my new comprehension of objects, the logical course is to make more bouncy balls!
+I wanted to expand on the bouncing ball example that was presented a few classes ago, and with my new comprehension of objects, the logical course was to make more bouncy balls!
 
 #### [What Goes Up...](https://alpha.editor.p5js.org/patchbae/sketches/HyjgB1n3-)
 I started by using the current mouse position to set the spawn point for the balls. They then bounce either up or down at a random speed between -5 and 5, and a random color and size is assigned to each one. Once a ball hits the edge of the canvas, it bounces in the other direction. 
