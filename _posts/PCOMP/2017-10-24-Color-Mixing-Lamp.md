@@ -13,8 +13,10 @@ And here is a link to a quick [video demo](https://www.youtube.com/edit?o=U&vide
 
 I am working on the schematic since it may change after getting feedback during this week's class. 
 
-Here is the arduino code:
+Here is the Arduino code:
 
+
+'''
 #define REDPIN 5
 #define GREENPIN 6
 #define BLUEPIN 3
@@ -41,9 +43,13 @@ void loop() {
       String(R) + "," + String(G) + "," + String(B));
    }  
 }
+'''
+
 
 And here is the p5.js code:
 
+
+'''
 var serial;          // variable to hold an instance of the serialport library
 var portName = '/dev/cu.usbmodem1411';  // fill in your serial port name here
 var r, g, b;
@@ -211,3 +217,6 @@ function printList(portList) {
  print(i + " " + portList[i]);
  }
 }
+
+
+'''
