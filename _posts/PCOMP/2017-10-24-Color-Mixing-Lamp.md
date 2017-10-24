@@ -9,7 +9,10 @@ So, I decided to make a color mixing lamp using an RGB LED strip that communicat
 
 <iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/Hksz0Fnab" scrolling="no"></iframe>
 
-And here is a link to a quick [video demo](https://www.youtube.com/edit?o=U&video_id=5olEyy52bp8)!
+<iframe width="600" height="400" src="https://youtu.be/5olEyy52bp8" scrolling="no"></iframe>
+
+
+And here is a link to a quick [video demo](https://youtu.be/5olEyy52bp8)!
 
 I am working on the schematic since it may change after getting feedback during this week's class. 
 
