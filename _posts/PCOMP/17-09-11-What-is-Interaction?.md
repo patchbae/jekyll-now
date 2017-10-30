@@ -1,7 +1,7 @@
 ---
- -layout: post
- -title: What is Interaction?
- -categories: PCOMP
+ layout: post
+ title: What is Interaction?
+ categories: PCOMP
  
 ---
 
