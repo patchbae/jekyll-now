@@ -1,6 +1,7 @@
 ---
  layout: post
  title: "Ellipticals"
+ categories: ICM
  
 ---
 
