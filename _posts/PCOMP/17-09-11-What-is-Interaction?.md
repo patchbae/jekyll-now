@@ -1,6 +1,8 @@
 ---
  -layout: post
  -title: What is Interaction?
+ -categories: PCOMP
+ 
 ---
 
 I view technology as extensions of the self. We use these tools only to become them. My interest with interaction revolves largely around what kinds of interactions we are setting ourselves up for based on the technolgies and tools we are creating and using. How can these technologies enhance or detract from our experiences with each other and ultimately lead to a better understanding of ourselves?
