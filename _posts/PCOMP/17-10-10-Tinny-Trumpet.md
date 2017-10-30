@@ -1,6 +1,8 @@
 ---
- -layout: post
- -title: Tinny Trumpet
+ layout: post
+ title: Tinny Trumpet
+ categories: PCOMP
+ 
 ---
 
 My main instrument has always been bass, but I've always wanted to play trumpet. I once managed to get my hands on a trumpet for a few months, much to my roomates' dismay, but I have a trumpet no more. So I hacked one together using some buttons, aluminum cans, a small omni microphone, and our trusty Arduino. 
