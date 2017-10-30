@@ -2,6 +2,7 @@
 
 layout: post
 title: Inverse Color Slider
+categories: ICM
 
 ---
 
