@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Coding Language
+categories: ICM
 excerpt_separator: <!--more-->
 
 ---
