@@ -1,6 +1,9 @@
 ---
- -layout: post
- -title: Subway Turnstile
+
+layout: post
+title: Subway Turnstile
+categories: PCOMP
+
 ---
 
 I was having a hard time picking what piece of technology to survey for this project, so I thought about technologies that I interact with most often. I realized there was one piece of equipment that, not only did I interact with almost daily, but also have observed countless other's interactions with it: the MTA MetroCard reader and turnstile. 
