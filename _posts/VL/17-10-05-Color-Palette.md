@@ -1,7 +1,7 @@
 ---
  layout: post
  title: Color Palette
- categories: "Visual Language"
+ categories: "Visual_Language"
  
 ---
 
