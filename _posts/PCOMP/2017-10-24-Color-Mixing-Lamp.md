@@ -1,6 +1,8 @@
 ---
- -layout: post
- -title: Color Mixing Lamp
+ layout: post
+ title: Color Mixing Lamp
+ categories: PCOMP
+ 
 ---
 
 I've been working as a lighting designer for the past few years, primarily in the context of live music events. But before that experience, I had never really interacted with RGB or CMY color spaces, much less had an understanding of these additive and subtractive models of color. 
