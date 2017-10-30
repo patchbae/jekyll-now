@@ -1,6 +1,7 @@
 ---
  layout: post
  title: "A Nest of Cubes"
+ categories: ICM
  
 ---
 
