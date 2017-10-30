@@ -2,6 +2,7 @@
 
 layout: post
 title: Bouncing Balls
+categories: ICM
 
 ---
 
