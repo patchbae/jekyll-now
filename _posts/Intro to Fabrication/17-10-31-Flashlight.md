@@ -13,3 +13,4 @@ I've been trying to use as many recycled or scrap parts in my projects. Before w
 
 Instead of making a traditional flashlight, I wanted to experiment with the idea of creating an LED hourglass. I had originally thought of using an accelerometer, but simplified it to a tilt switch. My original idea was to have the light resting on the bottom of the lamp until it was flipped over, then the light would slowly start moving from the top of the lamp down to the bottom. I was having some issues with the code for this, so I simplified the interaction to two states depening on which side it is resting on. I used two strips of neopixel LEDs mounted to opposite sides of the piping. 
 
+<iframe src="https://giphy.com/embed/xT1TU11KnbURA6jWr6" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xT1TU11KnbURA6jWr6">via GIPHY</a></p>
