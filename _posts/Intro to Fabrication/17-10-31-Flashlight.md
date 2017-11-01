@@ -9,9 +9,7 @@ I've been trying to use as many recycled or scrap parts in my projects. Before w
  
 ![Lamp Body]({{ site.url }}/images/Lamp Body.JPG) 
 
-Instead of making a more traditional flashlight, I wanted to experiment with the idea of creating an LED hourglass. I had originally thought of using an accelerometer, but simplified it to a tilt switch. My original vision was to have a static light resting on the bottom of the lamp, and when it was flipped over, the light would slowly start moving from the top of the lamp down to the bottom. I was having some issues with the code for this, so I simplified the interaction to two states depening on which side it is resting on. 
+![One Strip]({{ site.url }}/images/OneStrip.png)
 
- I had some leftover neopixels from an old project, so I decided to use two strips and mount them on the piping. 
- 
- ![One Strip]({{ site.url }}/images/OneStrip.png)
+Instead of making a traditional flashlight, I wanted to experiment with the idea of creating an LED hourglass. I had originally thought of using an accelerometer, but simplified it to a tilt switch. My original idea was to have the light resting on the bottom of the lamp until it was flipped over, then the light would slowly start moving from the top of the lamp down to the bottom. I was having some issues with the code for this, so I simplified the interaction to two states depening on which side it is resting on. I used two strips of neopixel LEDs mounted to opposite sides of the piping. 
 
