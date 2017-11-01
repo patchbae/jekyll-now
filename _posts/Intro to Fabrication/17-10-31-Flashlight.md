@@ -25,5 +25,11 @@ Once I got the pixel animation and the tilt switch working, I soldered the tilt 
 
 <iframe src="https://giphy.com/embed/3ohnEwtFA6FY0MoS9W" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohnEwtFA6FY0MoS9W">via GIPHY</a></p>
 
-The last part was simply stretching some lycra fabric (also salvaged) across the two discs and glueing it while taut. This gave the fixture some diffusion, while also allowing for access to the electronics inside. 
+The last part was simply stretching some lycra fabric (also salvaged) across the two discs and glueing it while taut. This gave the fixture some diffusion, while also allowing for access to the electronics inside.
+
+<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/l31GQUlf3oeSwEqcM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l31GQUlf3oeSwEqcM">via GIPHY</a></p>
+
+I want to work on another iteration of this with a cleaner enclosure and smoother code, but I think this is a good conceptualization of my initial idea. Bonus GIF of flashlight with a table in my room:
+
+
 
