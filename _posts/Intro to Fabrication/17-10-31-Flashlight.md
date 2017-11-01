@@ -19,7 +19,7 @@ Instead of making a traditional flashlight, I wanted to experiment with the idea
 
 Once I got the pixel animation and the tilt switch working, I soldered the tilt switch and some other components to a perfboard, then mounted the second LED strip, Arduino, and power supply to the inside of the discs.  I finalized the color scheme as red and blue, and had the animation only change to the new one once it had finished the previous cycle. 
 
-![Tilt Switch]({{ site.url }}/images/TiltSwitch.PNG) 
+![Tilt Switch]({{ site.url }}/images/TiltSwitch.png) 
 
 
 <iframe src="https://giphy.com/embed/3ohnEwtFA6FY0MoS9W" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohnEwtFA6FY0MoS9W">via GIPHY</a></p>
