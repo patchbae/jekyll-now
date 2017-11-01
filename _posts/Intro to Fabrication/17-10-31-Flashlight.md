@@ -31,5 +31,5 @@ The last part was simply stretching some lycra fabric (also salvaged) across the
 
 I want to work on another iteration of this with a cleaner enclosure and smoother code, but I think this is a good conceptualization of my initial idea. Bonus GIF of flashlight with a table in my room:
 
-
+<iframe src="https://giphy.com/embed/26naWKX1N6DDRSzF6" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26naWKX1N6DDRSzF6">via GIPHY</a></p>
 
