@@ -20,10 +20,10 @@ I had this idea when I was still in my undergraduate program studying Music Tech
 1 x 5V regulator <br />
 Housing for Controller Unit and Servo Motor <br />
 
-### Timeline
-Week 1: Order parts and begin prototyping
-Week 2: Establish wireless communication between controller and receiver
-Week 3: Build enclosure for controller and receiver
+### Timeline <br />
+Week 1: Order parts and begin prototyping <br />
+Week 2: Establish wireless communication between controller and receiver <br />
+Week 3: Build enclosure for controller and receiver <br />
 Week 4: Final adjustments / bug fixes
 
 
