@@ -9,16 +9,16 @@ I had this idea when I was still in my undergraduate program studying Music Tech
 
 ![Circuit Diagram]({{ site.url }}/images/SystemDiagram.png)
 
-### Bill of Materials:
-2 x XBee Modules
-1 x XBee Shield
-1 x XBee Explorer USB
-1 x Arduino UNO
-1 x CV Expression Pedal
-1 x Servo Motor
-1 x Barrel DC Power Connector
-1 x 5V regulator
-Housing for Controller Unit and Servo Motor
+### Bill of Materials: <br />
+2 x XBee Modules <br />
+1 x XBee Shield <br />
+1 x XBee Explorer USB <br />
+1 x Arduino UNO <br />
+1 x CV Expression Pedal <br />
+1 x Servo Motor <br />
+1 x Barrel DC Power Connector <br />
+1 x 5V regulator <br />
+Housing for Controller Unit and Servo Motor <br />
 
 ### Timeline
 Week 1: Order parts and begin prototyping
