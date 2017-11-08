@@ -47,7 +47,7 @@ Once the holes had all been drilled, I set the screws so as to just peek out thr
 
 ![Begin assembly]({{ site.url }}/images/PT14.png)
 
-From here on out was pretty smooth sailing. I admit that I had to redrill a few holes as the alighnment got slightly off towards the end, but all in all I was pleased with the results. To make a studier version of this, I could've used dowels or wood glue, but since it only needs to support paper towels, I think it is fairly well built for the job. Here are the final results!
+From here on out was pretty smooth sailing. I admit that I had to redrill a few holes as the alignment got slightly off towards the end, but all in all I was pleased with the results. To make a studier version of this, I could've used dowels or wood glue, but since it only needs to support paper towels, I think it is fairly well built for the job. Here are the final results!
 
 ![Wihtout Dowel]({{ site.url }}/images/PT15.png)
 ![With Dowel]({{ site.url }}/images/PT16.png)
