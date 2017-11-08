@@ -26,9 +26,34 @@ Once the arms were done, I had to make the cuts for the dowel. I simply found th
 
 ![Measure]({{ site.url }}/images/PT7.PNG) | ![Trace]({{ site.url }}/images/PT8.PNG)
 
-After making the first cut and smoothing it, I made sure the dowel fit properly and then I used that piece to trace onto the remaining arms.
+After making the first cut and smoothing it, I made sure the dowel fit properly and then I used that piece to trace onto the remaining arms. I then cut and rasped the rest of the arms. The last four arms were a slightly different size due to the use of scraps for this, but I managed to make it work without looking off from the rest. 
 
 ![Cut]({{ site.url }}/images/PT9.PNG) | ![Arms Done]({{ site.url }}/images/PT10.PNG)
+
+After making all the cuts, I sanded all the pieces down just for a smoother finish and then made my way to the drill press.
+
+![Drill Press]({{ site.url }}/images/PT11.PNG)
+
+I found a bit that was slightly smaller than my screws and chucked that up. I measured where the arms would sit if centered on the main pieces and marked where those boundaries were. 
+
+![Measures]({{ site.url }}/images/PT12.PNG)
+
+I then set up a clamp so as to consistently align the drill press with centers of the arms, and placed the main pieces on top to align with the marks (as shown in the image below).
+
+![Technique]({{ site.url }}/images/PT13.PNG)
+
+Once the holes had all been drilled, I set the screws so as to just peek out through the main pieces.
+
+![Begin assembly]({{ site.url }}/images/PT14.PNG)
+
+From here on out was pretty smooth sailing. I admit that I had to redrill a few holes as the alighnment got slightly off towards the end, but all in all I was pleased with the results. To make a studier version of this, I could've used dowels or wood glue, but since it only needs to support paper towels, I think it is fairly well built for the job. Here are the final results!
+
+![Wihtout Dowel]({{ site.url }}/images/PT15.PNG)
+![With Dowel]({{ site.url }}/images/PT16.PNG)
+![With Roll]({{ site.url }}/images/PT17.PNG)
+![All Five]({{ site.url }}/images/PT18.PNG)
+
+
 
 
 
