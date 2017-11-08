@@ -2,6 +2,7 @@
  layout: post
  title: Paper Towel Holders
  categories: Intro_to_Fabrication
+ comments: true
  
 ---
 
