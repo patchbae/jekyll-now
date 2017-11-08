@@ -18,7 +18,7 @@ However, this involves manufacturing and distributing many specialized devices. 
 
 Some other cool pixel projects that inspired me:
 
-[LED Sheep](https://www.youtube.com/watch?v=D2FX9rviEhw)
+[LED Sheep](https://www.youtube.com/watch?v=D2FX9rviEhw) <br />
 [LED Pigeons](https://www.youtube.com/watch?v=yE_RBqCW49U)
 
 ### Code
