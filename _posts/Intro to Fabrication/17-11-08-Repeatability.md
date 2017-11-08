@@ -6,7 +6,7 @@
  
 ---
 
-For our assignment on repeatability, I decided to make five wall-mounted paper towel holders using wood and screws. The materials used for this project consists of two 4' x 6" pieces of woods, two 4' dowels, some drywall screws, and a random piece of ply I needed because I didn't buy enough wood to account for mistakes. 
+For our assignment on repeatability, I decided to make five wall-mounted paper towel holders using wood and screws. The materials used for this project consisted of two 4' x 6" pieces of woods, two 4' dowels, some drywall screws, and a random piece of ply I needed because I didn't buy enough wood to account for mistakes. 
 
 ![Materials]({{ site.url }}/images/PT1.png) 
 
