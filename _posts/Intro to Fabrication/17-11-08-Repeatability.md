@@ -39,7 +39,7 @@ I found a bit that was slightly smaller than my screws and chucked that up. I me
 
 ![Measures]({{ site.url }}/images/PT12.png)
 
-I then set up a clamp so as to consistently align the drill press with centers of the arms, and placed the main pieces on top to align with the marks (as shown in the image below).
+I then set up a clamp so as to consistently align the drill press with centers of the arms, and placed the main pieces on top to align with the marks (as shown in the image below). I did this to create a pilot hole that was properly aligned in both pieces.
 
 ![Technique]({{ site.url }}/images/PT13.png)
 
