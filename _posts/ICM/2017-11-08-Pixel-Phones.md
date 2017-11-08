@@ -12,7 +12,7 @@ My idea for my final project is to see if I can create a system that allows for 
 
 ### Inspriration
 
-I think the first time I saw something like this was probably for one of the Superbowl half-time shows, where participants were given special LED devices that I'm assuming could keep track of their position, such as the [PixMob SuperBowl Show.](https://www.youtube.com/watch?v=PobJFd2XUrE)
+I think the first time I saw something like this was probably for one of the Superbowl half-time shows, where participants were given special LED devices that I'm assuming could keep track of their position, such as the [PixMob SuperBowl Show.](https://www.youtube.com/watch?v=PobJFd2XUrE) [Here](https://www.youtube.com/watch?v=hYnaMaKj27M) is a more detailed version of what the company does.
 
 However, this involves manufacturing and distributing many specialized devices. I figured if there was a way to use people's cell phones and have them go to a website and enter their seat number, we could take advantage of all the tiny screens that everyone has in their pockets. In addition to drastically reducing costs, it would allow for audience interaction in regards to which way they decide or are instructed to point their phones. Down the line I would like to add more interaction, say for example the phone's accelerometer influences the pixels, but for this project I'm just trying to get a proof of concept. 
 
