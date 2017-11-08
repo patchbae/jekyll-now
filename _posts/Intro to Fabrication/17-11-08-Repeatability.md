@@ -10,7 +10,7 @@ For our assignment on repeatability, I decided to make five wall-mounted paper t
 
 ![Materials]({{ site.url }}/images/PT1.png) 
 
-I found the average length of a full paper towel roll to be 11", so I decided to make the pieces 14" long. In retrospect, I should've made the cuts at 16" to accomodate standard stud spacing, but since the load is so light it could easily be supported by a single stud if attached at the center. I made a single cut and then marked the remaining pieces using the first piece as a guide. I should have used a stop block for this, but I only remembered about them a bit later in the process.
+I found the average length of a paper towel roll to be 11", so I decided to make the pieces 14" long. In retrospect, I should've made the cuts at 16" to accomodate standard stud spacing, but since the load is so light it could easily be supported by a single stud if attached at the center. I made a single cut and then marked the remaining pieces using the first piece as a guide. I should have used a stop block for this, but I only remembered about them a bit later in the process.
 
 ![Cutting]({{ site.url }}/images/PT2.png) | ![Pieces]({{ site.url }}/images/PT3.png)
 
