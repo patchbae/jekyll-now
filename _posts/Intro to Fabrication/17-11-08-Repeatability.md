@@ -8,20 +8,20 @@
 
 For our assignment on repeatability, I decided to make five wall-mounted paper towel holders using wood and screws. The materials used for this project consists of two 4' x 6" pieces of woods, two 4' dowels, some drywall screws, and a random piece of ply I needed because I didn't buy enough wood to account for mistakes. 
 
-![Materials]({{ site.url }}/images/PT1.PNG) 
+![Materials]({{ site.url }}/images/PT1.png) 
 
 I found the average length of a full paper towel roll to be 11", so I decided to make the pieces 14" long. In retrospect, I should've made the cuts at 16" to accomodate standard stud spacing, but since the load is so light it could easily be supported by a single stud if attached at the center. I made a single cut and then marked the remaining pieces using the first piece as a guide. I should have used a stop block for this, but I only remembered about them a bit later in the process.
 
-![Cutting]({{ site.url }}/images/PT2.PNG) | ![Pieces]({{ site.url }}/images/PT3.PNG)
+![Cutting]({{ site.url }}/images/PT2.png) | ![Pieces]({{ site.url }}/images/PT3.png)
 
 After cutting the main pieces, the next step was simply to cut the dowels down to the same 14". I used the same process as above, measuring and cutting the first piece, and then marking where the remaining cuts needed to happen. 
 
-![Dowels]({{ site.url }}/images/PT4.PNG)
+![Dowels]({{ site.url }}/images/PT4.png)
 
 Once the dowels were cut, the last remaining thing on the miter saw was to cut the arms that the dowel would rest on. I then measured the width of the paper towel roll and cut the remaining pieces of the two 4' planks to accomodate that width so that the paper towel would dispense easily and not drag against any edges. I only had 3 of these pieces at the proper width, and realizing I didn't need the height, I cut each piece in half to make 6 arms. I then needed to salvage enough wood to make 4 more arms, which was a challenge but ultimately doable. I had to use a stop block for this since the pieces were rather small.
 I then used a clamp to easily sand multiple pieces at the same time.
 
-![Arms]({{ site.url }}/images/PT5.PNG) | ![Sanding]({{ site.url }}/images/PT6.PNG)
+![Arms]({{ site.url }}/images/PT5.png) | ![Sanding]({{ site.url }}/images/PT6.png)
 
 Once the arms were done, I had to make the cuts for the dowel. I simply found the center of the first arm and traced the edges of the dowel. I used the bandsaw to cut as much of the material out, then I used a straight and a round rasp to smooth it as much as possible. 
 
