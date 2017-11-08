@@ -6,8 +6,8 @@ categories: ICM
 
 ---
 
-### Concept
 
+### Concept
 My idea for my final project is to see if I can create a system that allows for someone's mobile devices to become a pixel in a light show. The idea is currently intended only for implementation in a seated venue, as it would ask the user to input their seat row and number in order to determine which pixel the phone should represent. The main challenge that I see myself facing is figuring out how to allow multiple phones to access the same pixel information and controlling for latency.
 
 ### Inspriration
@@ -19,7 +19,8 @@ However, this involves manufacturing and distributing many specialized devices. 
 Some other cool pixel projects that inspired me:
 
 [LED Sheep](https://www.youtube.com/watch?v=D2FX9rviEhw) <br />
-[LED Pigeons](https://www.youtube.com/watch?v=yE_RBqCW49U)
+[LED Pigeons](https://www.youtube.com/watch?v=yE_RBqCW49U) <br />
+[LED Drones](https://www.youtube.com/watch?v=aOd4-T_p5fA)
 
 ### Code
 
