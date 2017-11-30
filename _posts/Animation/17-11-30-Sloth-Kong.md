@@ -37,7 +37,7 @@ This shot it actually out of place, but I didn't it realize until too late thoug
 
 ## Continental Army Plaza
 ![CAP]({{ site.url }}/images/Sloth7.jpg)
-This plaza has a statue of George Washington sitting on a horse, but it also has some really nice stairs that are pretty waxed from everyone skating there. I actually really like that this shot ended up at the end, since it synced really well with the music and was designed to appear to be a slo-mo shot for increased epicness. 
+This plaza has a statue of George Washington sitting on a horse, but it also has some really nice stairs that are pretty waxed from everyone skating there. I actually really like that this shot ended up at the end, since it synced really well with the music. You get a nice change when the chord comes in to end the song, and then a moment of silence before Sloth Kong lands the trick.
 
 It is set to the song "The New", by J Dilla, with sound effects taken from Gojira's (Godzilla) Theme Song.
 
