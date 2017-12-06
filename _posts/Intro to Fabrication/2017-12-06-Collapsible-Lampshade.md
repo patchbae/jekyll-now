@@ -24,7 +24,7 @@ I then sewed the lycra fabric to the ring and then sewed the gap closed.
 
 And lastly the light socket was wrapped around the top of the hangar and dropped into the shade.
 
-![Red Light]({{ site.url }}/images/CL5.png) 
+![Red Light]({{ site.url }}/images/CL5.png)
 
 
 
