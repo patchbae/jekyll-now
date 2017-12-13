@@ -45,27 +45,3 @@ And here it is attached to the pedal. The gap is much smaller now and the servo 
 
 ![Final]({{ site.url }}/images/Servo11.png)
 
-
-
-
-
-
-
- 
-
-![Ring]({{ site.url }}/images/CL2.png) 
-
-Once the ring was made, I cut the top of the hangar off and attached it to the ring using small pieces of wire. 
-
-![Materials]({{ site.url }}/images/CL3.png) 
-
-I then sewed the lycra fabric to the ring and then sewed the gap closed. 
-
-![Sew]({{ site.url }}/images/CL4.png) 
-
-And lastly the light socket was wrapped around the top of the hangar and dropped into the shade.
-
-![Red Light]({{ site.url }}/images/CL5.png)
-
-
-
