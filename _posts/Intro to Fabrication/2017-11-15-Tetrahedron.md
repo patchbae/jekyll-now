@@ -1,7 +1,7 @@
 ---
  layout: post
  title: Tetrahedron Diamond
- categories: Intro to Fabrication
+ categories: "Intro to Fabrication"
  comments: true
  
 ---
