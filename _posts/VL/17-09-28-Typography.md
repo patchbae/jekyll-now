@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Ticket Redesign | Expressive Words"
- categories: "Visual_Language"
+ category: "Visual Language"
  
 ---
 
