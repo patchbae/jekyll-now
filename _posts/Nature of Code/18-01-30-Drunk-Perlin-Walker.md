@@ -22,7 +22,7 @@ I was inspired by the Max/MSP object called "drunk", which causes a change in va
 
 #### [Perlin Color Wheel](https://alpha.editor.p5js.org/patchbae/sketches/BkTkpIpBf)
 
-<iframe width="1080" height="720" align="left" src="https://alpha.editor.p5js.org/embed/BkTkpIpBf" scrolling="no"></iframe>
+<iframe width="1080" height="720" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/BkTkpIpBf" scrolling="no"></iframe>
 
 I then moved onto to create a multitude of objects, switching out the ellipses for lines. What I did initially to create the second coordinate, was simply to inverse the mapping for noise offset for the second point. That way the line was always centered around the middle of the canvas. I also removed all green for a more coherent color scheme. You can also click to add additional lines. 
 
