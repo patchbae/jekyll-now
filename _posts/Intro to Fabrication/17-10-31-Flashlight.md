@@ -1,7 +1,7 @@
 ---
  layout: post
  title: Flashlight
- categories: "Intro to Fabrication"
+ category: "Intro to Fabrication"
  
 ---
 
