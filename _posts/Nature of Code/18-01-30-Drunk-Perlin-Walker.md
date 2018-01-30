@@ -22,8 +22,14 @@ I was inspired by the Max/MSP object called "drunk", which causes a change in va
 
 #### [Perlin Color Wheel](https://alpha.editor.p5js.org/patchbae/sketches/BkTkpIpBf)
 
-<iframe src="https://alpha.editor.p5js.org/embed/BkTkpIpBf"></iframe>
+<iframe width="100%" height="50%" src="https://alpha.editor.p5js.org/embed/BkTkpIpBf" scrolling="no"></iframe>
 
-I then moved onto to create a multitude of objects, switching out the ellipses for lines. What I did initially to create the second coordinate, was simply to inverse the mapping for noise offset for the second point. That way the line was always centered around the middle of the canvas. You can also click to add additional lines. 
+I then moved onto to create a multitude of objects, switching out the ellipses for lines. What I did initially to create the second coordinate, was simply to inverse the mapping for noise offset for the second point. That way the line was always centered around the middle of the canvas. I also removed all green for a more coherent color scheme. You can also click to add additional lines. 
+
+#### [Variations](https://alpha.editor.p5js.org/patchbae/sketches/H1Z5xtaSf)
+
+<iframe width="100%" height="50%" src="https://alpha.editor.p5js.org/embed/H1Z5xtaSf" scrolling="no"></iframe>
+
+This was simply creating a second noise offset sot hat the lines would be more random and not centered around the middle of the canvas.
 
 
