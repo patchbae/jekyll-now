@@ -1,7 +1,7 @@
 ---
  layout: post
  title: Expressifier Servo Mount
- categories: Intro_to_Fabrication
+ categories: Intro to Fabrication
  comments: true
  
 ---
