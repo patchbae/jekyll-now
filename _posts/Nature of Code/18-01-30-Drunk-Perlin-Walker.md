@@ -16,7 +16,7 @@ I started by manipulating the Perlin noise walker so that the colors varied with
 
 #### [Random Color Perlin Walker](https://alpha.editor.p5js.org/patchbae/sketches/H1SRbKpSM)
 
-<iframe src="https://alpha.editor.p5js.org/embed/H1SRbKpSM"></iframe>
+<iframe width="100%" height="50%" src="https://alpha.editor.p5js.org/embed/H1SRbKpSM" scrolling="no"></iframe>
 
 I was inspired by the Max/MSP object called "drunk", which causes a change in value within a certain range (i.e. the value will either be decreased or increased by a value between x and y). I am applying this drunken step separately to the red, green, and blue values. 
 
