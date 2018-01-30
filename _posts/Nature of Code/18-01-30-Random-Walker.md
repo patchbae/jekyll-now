@@ -23,7 +23,7 @@ I was inspired by the Max/MSP object called "drunk", which causes a change in va
 
 I then moved onto to create a multitude of objects, switching out the ellipses for lines. What I did initially to create the second coordinate, was simply to inverse
 
-#### [Perlin Color Wheel] (https://alpha.editor.p5js.org/patchbae/sketches/BkTkpIpBf)
+#### [Perlin Color Wheel](https://alpha.editor.p5js.org/patchbae/sketches/BkTkpIpBf)
 
 <iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/BkTkpIpBf>" scrolling="no"></iframe>
 
