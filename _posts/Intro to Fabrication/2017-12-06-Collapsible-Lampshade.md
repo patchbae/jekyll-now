@@ -1,7 +1,7 @@
 ---
  layout: post
  title: Collapsible Lampshade
- categories: "Intro to Fabrication"
+ category: "Intro to Fabrication"
  comments: true
  
 ---
