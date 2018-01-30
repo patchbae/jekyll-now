@@ -30,7 +30,7 @@ defaults:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: dominickpchang@gmail.com
   facebook: thepatchbae
   flickr:
   github: patchbae
@@ -40,7 +40,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/DominickChang
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
