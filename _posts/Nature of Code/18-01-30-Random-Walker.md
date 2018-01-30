@@ -1,4 +1,5 @@
 ---
+
  layout: post
  title: "Random Lines"
  category: "Nature of Code"
