@@ -10,7 +10,7 @@ My attempts at using Perlin noise for movement and a drunken step for color.
 
 #### [Perlin Walker](https://alpha.editor.p5js.org/patchbae/sketches/S1QCZYarz)
 
-<iframe width="600" height="400" src="https://alpha.editor.p5js.org/embed/S1QCZYarz>" scrolling="no"></iframe>
+<iframe src="https://alpha.editor.p5js.org/embed/S1QCZYarz"></iframe>
 
 I started by manipulating the Perlin noise walker so that the colors varied within a certain range. 
 
