@@ -1,7 +1,7 @@
 ---
 
  layout: post
- title: "Random Walker"
+ title: "Drunk Perlin Walker"
  category: "Nature of Code"
  
 ---
