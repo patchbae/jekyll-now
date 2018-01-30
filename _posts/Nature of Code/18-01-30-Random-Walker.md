@@ -6,6 +6,7 @@
  
 ---
 
+My attempts at using Perlin noise for movement and a drunken step for color. 
 
 #### [Perlin Walker](https://alpha.editor.p5js.org/patchbae/sketches/S1QCZYarz)
 
