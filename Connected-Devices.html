@@ -4,6 +4,6 @@ permalink: /Connected-Devices/
 title: "Connected Devices"
 ---
 
-{% for post in site.categories."Connected Devices" %}
+{% for post in site.categories.[Connected Devices] %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
