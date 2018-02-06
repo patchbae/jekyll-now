@@ -10,10 +10,10 @@ I decided to continue working on my drunk Perlin walker, so I created a variatio
 
 #### [Perlin Walker with Trails](https://alpha.editor.p5js.org/patchbae/sketches/By7EkrArG)
 
-<iframe frameborder="no" width="1080" height="720" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/By7EkrArG" scrolling="no"></iframe>
-
 My first step towards this was creating an array to store each object's color and opacity history, allowing me to draw trails. 
 This was the result applied to the radial version of the Perlin walker. The length of the the history is controlled by the slider in the top left. 
+
+<iframe frameborder="no" width="1080" height="720" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/By7EkrArG" scrolling="no"></iframe>
 
 #### [Decay](https://alpha.editor.p5js.org/patchbae/sketches/ry2NfvIIM)
 
