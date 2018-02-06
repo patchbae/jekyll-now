@@ -28,8 +28,14 @@ I then switched out the lines for quads, which formed very interesting patterns,
 
 <iframe width="1080" height="720" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/BkBI8d8Uz" scrolling="no"></iframe>
 
+#### [A Force](https://alpha.editor.p5js.org/patchbae/sketches/rJV7UFUIf)
 
-#### [A Force](https://alpha.editor.p5js.org/patchbae/sketches/B1YGas8Uf)
+Since the movement was still random, I decided to first create a downward force that would act on the object. This was done by simply creating an offset that was always going in the positive direction (i.e. downwards). 
+
+<iframe width="1080" height="720" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/rJV7UFUIf" scrolling="no"></iframe>
+
+
+#### [An Upwards Gust](https://alpha.editor.p5js.org/patchbae/sketches/B1YGas8Uf)
 
 Lastly, I moved the starting points so that they originated at the top of the screen and had an initial acceleration downwards. However, there is also an upwards force acting on all objects. So the objects initially fall, and are then blown back up.
 
