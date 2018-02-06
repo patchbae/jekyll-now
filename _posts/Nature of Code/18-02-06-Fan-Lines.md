@@ -13,13 +13,13 @@ I decided to continue working on my drunk Perlin walker, so I created a variatio
 My first step towards this was creating an array to store each object's color and opacity history, allowing me to draw trails. 
 This was the result applied to the radial version of the Perlin walker. The length of the the history is controlled by the slider in the top left. 
 
-<iframe frameborder="no" width="100%" height="720" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/By7EkrArG" scrolling="no"></iframe>
+<iframe frameborder="no" width="100%" height="100%" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/By7EkrArG" scrolling="no"></iframe>
 
 #### [Decay](https://alpha.editor.p5js.org/patchbae/sketches/ry2NfvIIM)
 
 I then created an opacity decay, so that each object starts with full opacity and slowly loses opacity over its lifespan. In addition to this opacity decay, I created a function so that when the opacity reached 0, the arrays would stop updating and slowly begin erasing its oldest entries until there are none left, create a smooth fade out for the object. 
 
-<iframe frameborder="no" width="100%" height="720" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/ry2NfvIIM" scrolling="no"></iframe>
+<iframe frameborder="no" width="100%" height="100%" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/ry2NfvIIM" scrolling="no"></iframe>
 
 
 #### [Quad](https://alpha.editor.p5js.org/patchbae/sketches/BkBI8d8Uz)
