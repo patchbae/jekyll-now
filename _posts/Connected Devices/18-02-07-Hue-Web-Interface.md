@@ -10,15 +10,15 @@ For this second assignment, we were asked to create a web interface for a connec
 
 I first went through the complete list of hue lights in my home (there are a lot as I live with 7 other people and we all have them) and isolated the ones in my room. Once I'd done that, I created simple commands that would affect the entire group. These are the commands I created and their functions:
 
-Off - turns entire group off
-On - turns entire group on
-Sweep Down - turns the entire group to minimal brightness, but uses transitiontime to sweep the onset across the room
-Sweep Up - turns the entire group to maxmimal brightness, but uses transitiontime to sweep the onset across the room
-Full - turns the entire group to maximal brightness immediately
-Alert Sweep - sweeps the alert message across the room, create a chase effect
-Red Sweep - changes the entire group's hue to red, but uses transitiontime to sweep the onset across the room
-Blue Sweep - changes the entire group's hue to blue, but uses transitiontime to sweep the onset across the room
-Slider - changes the entires group's hue to the slider's value, action is on mouse press
+Off - turns entire group off <br>
+On - turns entire group on <br>
+Sweep Down - turns the entire group to minimal brightness, but uses transitiontime to sweep the onset across the room <br>
+Sweep Up - turns the entire group to maxmimal brightness, but uses transitiontime to sweep the onset across the room <br>
+Full - turns the entire group to maximal brightness immediately <br>
+Alert Sweep - sweeps the alert message across the room, create a chase effect <br>
+Red Sweep - changes the entire group's hue to red, but uses transitiontime to sweep the onset across the room <br>
+Blue Sweep - changes the entire group's hue to blue, but uses transitiontime to sweep the onset across the room <br>
+Slider - changes the entires group's hue to the slider's value, action is on mouse press <br>
 
 
 Here is the p5.js code and a [link](http://alpha.editor.p5js.org/patchbae/sketches/r1KhjmdIf) to the sketch. 
