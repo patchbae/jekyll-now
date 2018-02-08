@@ -10,7 +10,7 @@ If I learned anything from the first week's assignment it was that freehanding a
 
 ![Anchor Points]({{ site.url }}/images/Sub1-1.png)
 
-I then proceeded to make symmetrical cuts at varying lengths to start creating patterns.
+Using a circle jig, I made cuts at the same lengths from each corner dowel, starting to create a symmetrical pattern
 
 ![Anchor Points]({{ site.url }}/images/Sub1-2.png)
 
