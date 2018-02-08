@@ -16,6 +16,6 @@ Here's how to set it up to work with Gmail instead:
 
 1. Open Gmail in Chrome and click on the overlapping diamond symbol in the address bar. It's to the left of the bookmark star). <br>
 
-2. Select "Allow" when prompted to "Allow mail.google.com to open all email links?" <br?
+2. Select "Allow" when prompted to "Allow mail.google.com to open all email links?"
 
 That's it! Never copy paste an email link again!
