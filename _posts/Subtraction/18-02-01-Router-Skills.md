@@ -12,20 +12,20 @@ If I learned anything from the first week's assignment it was that freehanding a
 
 Here it is with two cuts.
 
-![Anchor Points]({{ site.url }}/images/Sub1-2.png)
+![Two Cuts]({{ site.url }}/images/Sub1-2.png)
 
  Now three.
  
- ![Anchor Points]({{ site.url }}/images/Sub1-3.png)
+ ![Now Three]({{ site.url }}/images/Sub1-3.png)
  
  We're up to eight cuts now.
  
- ![Anchor Points]({{ site.url }}/images/Sub1-4.png)
+ ![Eight Cuts]({{ site.url }}/images/Sub1-4.png)
  
  And here is the final product, with a total of 16 cuts, with 4 cuts made from each corner.
  
- ![Anchor Points]({{ site.url }}/images/Sub1-5.png)
+ ![4-bit]({{ site.url }}/images/Sub1-5.png)
  
  And here it is with the cuts of same length highlighted:
  
- ![Anchor Points]({{ site.url }}/images/Sub1-6.png)
+ ![Highlights]({{ site.url }}/images/Sub1-6.png)
