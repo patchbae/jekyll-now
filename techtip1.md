@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Set Gmail as Your Defaul Email Client for Mailto Links
+title: Set Gmail as Your Defaut Email Client for Mailto Links
 permalink: /techtip1/
 
 ---
