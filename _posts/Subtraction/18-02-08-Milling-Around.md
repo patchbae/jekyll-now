@@ -18,6 +18,6 @@ Here is the larger triangle with the smaller triangle cut out, but still inside.
 
 ![Two Cuts]({{ site.url }}/images/Sub2-2.png)
  
-And here is the final result. 
+And here is the final result:
 
 ![Now Three]({{ site.url }}/images/Sub2-3.png)
