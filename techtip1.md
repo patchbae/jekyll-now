@@ -18,4 +18,4 @@ Here's how to set it up to work with Gmail instead:
 
 2. Select "Allow" when prompted to "Allow mail.google.com to open all email links?"
 
-That's it! Never copy paste an email link again!
+That's it, never copy paste an email link again!
