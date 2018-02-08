@@ -5,7 +5,7 @@ permalink: /techtip1/
 
 ---
 
-## Set Gmail as Your Defaut Email Client for Mailto Links
+### Set Gmail as Your Defaut Email Client for Mailto Links
 
 This solves the problem of having Outlook, Mail, or another default email client opening mailto links.
 
