@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Tip #1
+title: 'Tech Tip # 1'
 permalink: /techtip1/
 
 ---
