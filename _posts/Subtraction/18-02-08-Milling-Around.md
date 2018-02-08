@@ -21,5 +21,3 @@ Here is the larger triangle with the smaller triangle cut out, but still inside.
 And here is the final result:
 
 ![Now Three]({{ site.url }}/images/Sub2-3.png)
-
-![Anchor Points]({{ site.url }}/images/Sub1-1.png)
