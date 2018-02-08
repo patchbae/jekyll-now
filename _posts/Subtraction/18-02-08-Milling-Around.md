@@ -3,6 +3,7 @@
  layout: post
  title: "Milling Around"
  category: "Subtraction"
+ comments: true
  
 ---
 
