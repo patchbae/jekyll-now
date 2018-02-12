@@ -6,7 +6,9 @@
  
 ---
 
-I decided to continue working on my drunk Perlin walker, so I created a variation that ended up resembling what I think could be fabric or smoke with a force blowing upwards. Hit enter to add an additional object. 
+I decided to continue working on my drunk Perlin walker, so I created a variation that ended up resembling what I think could be fabric or smoke with a force blowing upwards. 
+
+###### Click into a window and hit enter to add an additional object. 
 
 #### [Perlin Walker with Trails](https://alpha.editor.p5js.org/patchbae/sketches/By7EkrArG)
 
