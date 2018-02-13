@@ -12,7 +12,10 @@ The initial design will include a single motor in the handle of the jump rope, w
 
 #### The Build
 
-So the first step in created our jumprope-powered light involved figuring out a way to attach the rope to the shaft of the motor. We went with the idea of attaching the shaft to a circular piece of wood using a mounting hub, and then cutting an offset hole in the circle to attach the rope to. In retrospect, I can think of a number of ways we could've improved this idea, but this was a successful prototype to show proof of concept. 
+So the first step in created our jumprope-powered light involved figuring out a way to attach the rope to the shaft of the motor. We started by cutting a circular piece of wood to attach to the motor shaft. 
+
+
+
 
 
 
