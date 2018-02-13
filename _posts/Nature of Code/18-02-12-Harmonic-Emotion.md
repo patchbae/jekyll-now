@@ -1,7 +1,7 @@
 ---
 
  layout: post
- title: Harmonic Emotion"
+ title: "Harmonic Emotion"
  category: "Nature of Code"
  
 ---
@@ -12,4 +12,4 @@ I've continued the theme of breathing new life into my previous sketches. This u
 
 This first sketch draws ellipses. Their position, size, and color are all being modulated use sine and cosine functions associted with the percent of the loop. However, whenever I tried to export the loops, I was unable to sequence the downloaded images into a perfect loop. I got close with some attempts, but none were perfect. I would venture a guess that it has something to do with my code. The other strange behavior I noticed was that, if you delete the section of code that draws the percent of the loop, the exported images no longer start from the first frame and sometime export out of order
 
-<iframe frameborder="no" max-width="100%" width="auto" height="auto" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/ryki9rALz" scrolling="no"></iframe>
+<iframe frameborder="no" width="100%" height="100%" align="center" margin="0 auto" display="block" src="https://alpha.editor.p5js.org/embed/ryki9rALz" scrolling="no"></iframe>
