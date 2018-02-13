@@ -18,7 +18,9 @@ So the first step in creating our jumprope-powered light involved figuring out a
 
 We then aligned a universal hub with the hole from the dowel used in the router jig, since that is the center of the circle. We marked where we needed to drilled pilot holes, took care of that, then attached the hub to the circle.
 
-![Hub]({{ site.url }}/images/Energy1-2.png) | ![Wheel]({{ site.url }}/images/Energy1-3.png)
+![Hub]({{ site.url }}/images/Energy1-2.png) 
+
+![Grip]({{ site.url }}/images/Energy1-3.png)
 
 A small hole was cut from the wheel for the rope to go through, then we attached the motor to the hub using two set screws, and soldered long wires onto the postive and negative terminals of the motor. 
 
