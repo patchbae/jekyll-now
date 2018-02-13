@@ -42,9 +42,9 @@ And here is a shot of our simple capacitor and LED circuit.
 
 ![The bench]({{ site.url }}/images/Energy1-8.png)
 
-Average voltage when using hand crank: 12 - 16V
-Average voltage when using rope: 5 - 6V
-Max current when using hand crank: 0.1A
-Max current when using rope: 0.032A
+Average voltage when using hand crank: 12 - 16V <br>
+Average voltage when using rope: 5 - 6V <br>
+Max current when using hand crank: 0.1A <br>
+Max current when using rope: 0.032A <br>
 
 And here's the [video](https://mail.google.com/mail/u/1/#inbox/1618f53ef20bc082?projector=1)!
