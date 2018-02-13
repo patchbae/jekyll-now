@@ -46,3 +46,5 @@ Average voltage when using hand crank: 12 - 16V
 Average voltage when using rope: 5 - 6V
 Max current when using hand crank: 0.1A
 Max current when using rope: 0.032A
+
+And here's the [video](https://mail.google.com/mail/u/1/#inbox/1618f53ef20bc082?projector=1)!
