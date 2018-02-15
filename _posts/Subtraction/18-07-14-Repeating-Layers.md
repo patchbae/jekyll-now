@@ -21,12 +21,14 @@ I then cut a another layer, and fit the square inside the previous layer's circl
 
 I repeated this until I had seven layers. 
 
-![Second Layer]({{ site.url }}/images/Sub3-4.png)
-![Second Layer]({{ site.url }}/images/Sub3-5.png)
-![Second Layer]({{ site.url }}/images/Sub3-6.png)
-![Second Layer]({{ site.url }}/images/Sub3-7.png)
+![Third Layer]({{ site.url }}/images/Sub3-4.png)
+![Fourth Layer]({{ site.url }}/images/Sub3-5.png)
+![Fifth Layer]({{ site.url }}/images/Sub3-6.png)
+![Sixth Layer]({{ site.url }}/images/Sub3-7.png)
 
 And here is the final shape:
 
 
-![Second Layer]({{ site.url }}/images/Sub3-8.png)
+![Seven Layer Cruch Wrap Supreme]({{ site.url }}/images/Sub3-8.png)
+
+![A Gif]({{ site.url }}/gif/Sub3.gif)
