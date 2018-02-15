@@ -11,11 +11,11 @@ For our 2.5D assignment, I went about making a stack of nested shapes inside of 
 
 ![Material]({{ site.url }}/images/Sub3-1.png)
 
-For every layer, I started with the inner cut and then did the outer cut. I started with the largest piece, a circle with a smaller circle cut out of it.
+For every layer, I started with the inner cut and then did the outer cut. I started with the smallest cut, a circle with a smaller circle cut out of it.
 
 ![First Layer]({{ site.url }}/images/Sub3-2.png)
  
-I then cut a another layer, and fit the square inside the previous layer's circle. 
+I then cut a another layer, and fit the square around the previous layer's circle. 
 
 ![Second Layer]({{ site.url }}/images/Sub3-3.png)
 
