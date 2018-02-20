@@ -1,7 +1,7 @@
 ---
 
  layout: post
- title: "Planet Helper"
+ title: "Plant Helper"
  category: "Energy"
  
 ---
