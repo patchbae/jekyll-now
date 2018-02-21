@@ -20,4 +20,4 @@ I used a cardboard box as an enclosure and secured the screen and potentiometer 
 
 Here is what it looks like closed. 
 
-![Closed]({{ site.url }}/images/CN3-4.png) 
+![Closed]({{ site.url }}/images/CN4-4.png) 
