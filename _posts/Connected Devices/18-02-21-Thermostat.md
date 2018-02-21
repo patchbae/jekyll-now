@@ -12,7 +12,7 @@ For this assignment, we needed to create a thermostat that posted hourly tempera
 
 I added a small LCD display to show the current temperature and the desired set point temperature. It also lets you know when you've successfully connected to the network and when you are making a post to the server.
 
-<iframe width="560" height="200" src="https://www.youtube.com/embed/YkTY6c_r4o4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="200" src="https://www.youtube.com/embed/YkTY6c_r4o4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 I used a cardboard box as an enclosure and secured the screen and potentiometer to the face panel. 
 
