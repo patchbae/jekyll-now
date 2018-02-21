@@ -6,4 +6,6 @@
  
 ---
 
-For this assignment, we needed to create a thermostat that posted hourly temperature readings to a server, in addition to having a potentiometer to create a desired temperature set point. I added a small LCD display to 
+For this assignment, we needed to create a thermostat that posted hourly temperature readings to a server, in addition to having a potentiometer to create a desired temperature set point. I added a small LCD display to show the current temperature and the desired set point temperature. It also lets you know when you've successfully connected to the network, and when you are making a post to the server.
+
+![LCD]({{ site.url }}/images/CN3-1.png) 
