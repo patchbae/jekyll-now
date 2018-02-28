@@ -21,3 +21,8 @@ I used a cardboard box as an enclosure and secured the screen and potentiometer 
 Here is what it looks like closed. 
 
 ![Closed]({{ site.url }}/images/CN4-4.png) 
+
+
+### Final Remarks
+
+While I did manage to sucessfully post correct measurements, I was having a number of issues with consistently doing so over long stretches of time. I noticed that after a seemingly arbitrary amount of sucessful posts, the device would stop posting sucessfully to the server. A simple power cycle would get it going again, and I'd try making adjustments to the code, but it wasn't until Tuesday that I managed to get significant progress. What I finally did was have it send every five minutes, in addition to reminding itself of the new alarm time after every sucessfull post. This resulted in my longest stretch of sucessful posts (about 22 hours). I also had the device check the HTTP response and if it was anything other than 200, it would reset the WiFi and try to post again. 
