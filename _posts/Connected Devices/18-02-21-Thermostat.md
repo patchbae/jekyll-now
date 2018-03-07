@@ -30,6 +30,7 @@ While I did manage to sucessfully post correct measurements, I was having a numb
 
 ### Code
 
+{% highlight arduino %}
 ```
 /*
   Dweet.io POST client for ArduinoHttpClient library
@@ -239,5 +240,6 @@ void alarmMatch() {
   sendRequest = true;
 }
 ```
+{% endhighlight %}
 
 
