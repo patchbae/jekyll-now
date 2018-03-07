@@ -30,8 +30,9 @@ While I did manage to sucessfully post correct measurements, I was having a numb
 
 ### Code
 
-{% highlight arduino %}
+
 ```
+{% highlight arduino %}
 /*
   Dweet.io POST client for ArduinoHttpClient library
   Connects to dweet.io once every ten seconds,
@@ -239,7 +240,8 @@ void httpRequest() {
 void alarmMatch() {
   sendRequest = true;
 }
-```
 {% endhighlight %}
+```
+
 
 
