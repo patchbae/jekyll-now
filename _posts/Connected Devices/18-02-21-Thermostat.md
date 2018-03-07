@@ -31,7 +31,7 @@ While I did manage to sucessfully post correct measurements, I was having a numb
 ### Code
 
 
-{% highlight arduino %}
+{% highlight c %}
 /*
   Dweet.io POST client for ArduinoHttpClient library
   Connects to dweet.io once every ten seconds,
