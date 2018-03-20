@@ -23,3 +23,6 @@ Sam and I finally have a working circuit with all the functions that we had orig
 
 While we had originally wanted to create a BEAM circuit and not use batteries, we realized that in order to keep the timing of the rotation and measurements regular, a battery would be a better option. We had experimented with creating some osciallating / timer circuit, but they quickly became overly complicated and was not providing any benefits. We are currently figuring out our mounting options, but we realized that we may need a slip-ring since the plant is going to be rotating. 
 
+### Final Remarks
+
+Sam decided to make an enclosure for our project as his mid-term for Subtraction. Instead of mounting the motor in the base, he mounnted 
