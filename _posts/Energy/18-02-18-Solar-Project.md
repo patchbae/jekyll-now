@@ -25,4 +25,35 @@ While we had originally wanted to create a BEAM circuit and not use batteries, w
 
 ### Final Remarks
 
-Sam decided to make an enclosure for our project as his mid-term for Subtraction. Instead of mounting the motor in the base, he mounnted 
+Sam decided to make an enclosure for our project as his mid-term for Subtraction. Instead of mounting the motor in the stationary base, he mounted the motor in the part that rotates, getting rid of the need for a slip ring. He made the enclosure out of stacked hexagons, as shown below:
+
+![Solar4]({{ site.url }}/images/Solar4.jpeg)
+
+Arnav helped figure out how to replace the charge controller and connect it with the battery that was available to us. Once everything was soldered up, it was connected to the rest of the circuit. Here's a gif of Sam testing the moisture sensor and the new charge controller / battery setup:
+
+![Solar5]({{ site.url }}/images/Solar5.gif)
+
+Once everything was assured to be working, it was time to assemble it. Here are all the loose components:
+
+![Solar6]({{ site.url }}/images/Solar6.jpeg)
+
+The motor and circuit are installed, and only the lid and plant remain to go on top. You can see the moisture sensor mounted into the pot itself. 
+
+![Solar7]({{ site.url }}/images/Solar7.jpeg)
+
+And here it is all stacked up!
+
+![Solar8]({{ site.url }}/images/Solar8.jpeg)
+
+In situ and alive:
+
+![Solar9]({{ site.url }}/images/Solar9.gif)
+
+
+
+
+
+
+
+
+
