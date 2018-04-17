@@ -1,12 +1,12 @@
 ---
 
  layout: post
- title: "Graphene"
+ title: "Balancing The Grid"
  category: "Energy"
  
 ---
 
-For my presentation, I wanted to discuss graphene, a carbon-based supermaterial. Here is my presentation as a series of images: 
+
 
 ![Graphene1]({{ site.url }}/images/Energy Final.001.jpeg)
 
