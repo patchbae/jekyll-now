@@ -37,7 +37,7 @@ Once I'd hollowed it out, I cut off as much excess material from the bottom and 
 
 ![End]({{ site.url }}/images/Sub10_9.png)
 
-And here is the finised product:
+And here is the finished product:
 
 ![Final Light]({{ site.url }}/images/Sub10_10.png)
 
