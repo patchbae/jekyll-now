@@ -13,7 +13,7 @@ For our final project, we had to create an object using multiple machines. I dec
 
 The material I used was the 1" plywood that I bought for my LED clock. 
 
-![0.25" Holes]({{ site.url }}/images/SubFinal_2.png)
+![Pockets]({{ site.url }}/images/SubFinal_2.png)
 
 The CNC process started with making four 1/4" pockets per ring for the dowels. This was so that the rings would line up properly and be supported during the glue up. After testing two rings to make sure it worked, I drilled all the pockets for each ring to minimize bit changes.
 
