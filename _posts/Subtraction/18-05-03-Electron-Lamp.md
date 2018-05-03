@@ -21,7 +21,7 @@ The CNC process started with making four 1/4" pockets per ring for the dowels. T
 
 I then cut all the inner contours for the rings, removed the waste material, and finally cut the outer contours to separate them from the material. 
 
-![Close-up rings({{ site.url }}/images/SubFinal_4.png)
+![Close-up rings]({{ site.url }}/images/SubFinal_4.png)
 
 Close-up shot.
 
