@@ -57,6 +57,8 @@ Here is the faceplate and baseplate in the stacked rings.
 
 And here it is chucked up on the 4-axis. Unfortunately, I didn't look at the maximum model sizes properly, so the machine wouldn't accept this job. I went back to my drawings, scaled everything down and repeated all of the above. 
 
+![4-axis]({{ site.url }}/images/LampFinalV3.stl)
+
 Here is the model of the lamp. This was made in Vectorworks by created a rectangle whose width was half of the circumference of the rings (if measured from the center of the rings). I then clipped the circles from the rectangle so that it looked like swiss chese. I then extruded the rectangle to the thickness of the rings, and performed a 180º symmetrical deform. This created half of the cylinder, and then I simply duplicated, rotated, and added them to create a perfect cylinder. This was done this was as a 360º deform throws errors in Vectorworks. 
 
 ![Rough pass]({{ site.url }}/images/SubFinal_14.png)
