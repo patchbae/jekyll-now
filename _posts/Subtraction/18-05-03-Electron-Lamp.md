@@ -87,7 +87,7 @@ Two RGB LED strips were attached and an Arduino uno was used for power and data.
 
 I wanted to test a more diffused look as well, so I put a piece of white lycra to demonstrate it.
 
-All in all, I'm happy with how it turned out for a first try. I'm going to keep working on this idea / process over the summer and see what else comes out of it. 
+All in all, I'm happy with how it turned out for a first try. I'm going to keep working on this idea / process over the summer and see what else comes out of it.
 
 
 
