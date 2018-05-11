@@ -19,10 +19,10 @@ The last main piece that was changed was that, instead of the using directly con
 
 After some user testing, I found that just changing the frequency and amplitude of a sine tone got repetitive very quickly. So I made a final alteration and had the particle control the rate and volume of a sound file. And instead of every particle playing the same sound file, they were randomly assigned a soundfile from a group that I had put together. This gave the piece a lot more variation and room for developing differently over time. 
 
-Here is a quick [video](https://www.youtube.com/watch?v=NOpZz9Onoig&feature=youtu.be) of it running: 
+Here is a quick [video](https://www.youtube.com/watch?v=NOpZz9Onoig&feature=youtu.be) of it running.
 
 
-And here is the source code:
+And here is the [source code](https://github.com/patchbae/patchbae.github.io/tree/master/Tonal%20Gravity).
 
 
 Code examples used:
