@@ -26,7 +26,9 @@ And here is the [source code](https://github.com/patchbae/patchbae.github.io/tre
 
 
 Code examples used:
+
 [Nature of Code - Particle Systems](https://github.com/shiffman/NOC-S18/tree/master/week4)
+
 [Interactive Play](https://github.com/mimiyin/collective-play-s18)
 
 
