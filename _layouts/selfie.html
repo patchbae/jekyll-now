@@ -1,1 +1,49 @@
+<!DOCTYPE html>
 
+<html>
+
+<body>
+  <!-- <script>
+  var s;
+  var myVideo;
+  var aLeft;
+  var aRight;
+  </script> -->
+
+  <body bgcolor="#b29c84">
+
+
+  <div style="text-align:center">
+    <video id="video1" width="1080" height="720">
+          <source src="/video/Selfportrait_1.mp4" type="video/mp4">
+        </video>
+  </div>
+
+
+  <div id="instructions" style="text-align:center">
+    <font size='7' face="impact">Use the arrow keys. Listen with headphones. </font>
+    <script type="text/javascript">
+      var s = document.getElementById('instructions').style;
+      s.opacity = 1;
+      (function fade() {
+        (s.opacity -= .005) < 0 ?
+          s.display = "none" : setTimeout(fade, 40)
+      })();
+    </script>
+  </div>
+
+
+<div>
+  <audio id="leftAudio" loop type="audio/wav">
+    <source src="/audio/LeftChannel.wav">
+  </audio>
+</div>
+
+<div>
+  <audio id="rightAudio" loop type="audio/wav">
+    <source src="/audio/RightChannel.wav">
+  </audio>
+</div>
+    
+  </body>
+  </html>
