@@ -11,6 +11,9 @@
   </script> -->
 
   <body bgcolor="#b29c84">
+    
+    <button onclick="disableMute()" type="button">Enable sound</button>
+
 
 
   <div style="text-align:center">
@@ -47,11 +50,17 @@
     <script>
 
 var aLeft = document.getElementById("leftAudio");
-aLeft.autoplay = true;
+// aLeft.autoplay = true:
 // aLeft.volume = 0.5;
 var aRight = document.getElementById("rightAudio");
-aRight.autoplay = true;
+// aRight.autoplay = true;
 // aRight.volume = 0.5;
+      function disableMute() { 
+    aLeft.play();
+    aRight.play();
+     
+} 
+
 
   var myVideo = document.getElementById("video1");
   var videoSelection = 1;
