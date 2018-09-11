@@ -136,6 +136,10 @@ aRight.autoplay = true;
 </html>
 ```
 
+Here is the sketch: https://patchbae.github.io/self/ 
+
+I couldn't get the audio to work here for some reason. Tried getting rid of autoplay and adding buttons, but it wouldn't seem to populate the page with the button. 
+
 And for my sychronous site, I wanted to discuss Twitch Plays Pokemon. Twitch is a streaming platform focused around gaming. Twitch Plays Pokemon was a gaming experiment that allowed multiple users to cast a vote for an input to the game by typing it in the chatroom. As it used an emulator to play the earliest version of the game (Pokemon Red), the controls were very simple (left, right, up, down, A, and B), allowing for the users to easily cast their vote and for the script to decode the most common vote. 
 
 It was an immense success, averaging 80,000 concurrent viewers (with 10,000 participating at any given moment). It peaked at around 121,000 concurrent users, with over 55 million views total of the 16 day run. It holds the Guiness Book of World Records for "the most participants on a single-player online videogame" with 1,165,140.
