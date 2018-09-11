@@ -1,0 +1,9 @@
+---
+layout: page
+permalink: /data-art/
+title: Data Art
+---
+
+{% for post in site.categories.Data Art %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
