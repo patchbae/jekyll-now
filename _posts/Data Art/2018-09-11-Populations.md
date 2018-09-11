@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Visualizing Foreign Populations in the U.S."
- categories: Data Art
+ categories: "Data Art"
  
 ---
 
