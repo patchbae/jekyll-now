@@ -9,7 +9,7 @@
 I wanted to create something that reacted proportionally to the direction of input, so naturally I decided to use the arrow keys as the interactive element. I filmed two video segments, one of me panning my head back and forth, and the other of a laptop being opened and shut. I then edited these clips down, so that there was one movement in each clip (head goes from left to right, laptop goes from open to shut). I then set these video clips to start in the middle of their duration, so that my head was positioned looking relatively forward when they start. The arrow keys then scrub through the video, which in turn makes it seem like my head / the camera is moving in the direction of the arrow. I also added some filtered white noise and had the arrow keys affect the panning of the sound. 
 
 Here is the code:
-
+```
 
 <!DOCTYPE html>
 
@@ -134,7 +134,7 @@ aRight.autoplay = true;
   </body>
 
 </html>
-
+```
 
 And for my sychronous site, I wanted to discuss Twitch Plays Pokemon. Twitch is a streaming platform focused around gaming. Twitch Plays Pokemon was a gaming experiment that allowed multiple users to cast a vote for an input to the game by typing it in the chatroom. As it used an emulator to play the earliest version of the game (Pokemon Red), the controls were very simple (left, right, up, down, A, and B), allowing for the users to easily cast their vote and for the script to decode the most common vote. 
 
