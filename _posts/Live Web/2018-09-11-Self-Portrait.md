@@ -16,21 +16,20 @@ Here is the code:
 <html>
 
 <body>
-  <!-- <script>
-  var s;
-  var myVideo;
-  var aLeft;
-  var aRight;
-  </script> -->
+
+  <button onclick="disableMute()" type="button">Enable sound</button>
 
   <body bgcolor="#b29c84">
+    
+
 
 
   <div style="text-align:center">
     <video id="video1" width="1080" height="720">
-          <source src="video/Selfportrait_1.mp4" type="video/mp4">
+          <source src="/video/Selfportrait_1.mp4" type="video/mp4">
         </video>
   </div>
+
 
   <div id="instructions" style="text-align:center">
     <font size='7' face="impact">Use the arrow keys. Listen with headphones. </font>
@@ -44,44 +43,41 @@ Here is the code:
     </script>
   </div>
 
+
 <div>
   <audio id="leftAudio" loop type="audio/wav">
-    <source src="audio/LeftChannel.wav">
+    <source src="/audio/LeftChannel.wav">
   </audio>
 </div>
 
 <div>
   <audio id="rightAudio" loop type="audio/wav">
-    <source src="audio/RightChannel.wav">
+    <source src="/audio/RightChannel.wav">
   </audio>
 </div>
-
-<script>
-
+    <script>
 var aLeft = document.getElementById("leftAudio");
-aLeft.autoplay = true;
+// aLeft.autoplay = true:
 // aLeft.volume = 0.5;
 var aRight = document.getElementById("rightAudio");
-aRight.autoplay = true;
+// aRight.autoplay = true;
 // aRight.volume = 0.5;
-
+      function disableMute() { 
+    aLeft.play();
+    aRight.play();
+     
+} 
   var myVideo = document.getElementById("video1");
   var videoSelection = 1;
-
   myVideo.currentTime = 5;
-
   aRight.volume = 0.5;
   aLeft.volume = 0.5;
-
   document.onkeydown = checkKey;
-
   function checkKey(e) {
-
     e = e || window.event;
-
     if (e.keyCode == '38') { //up arrow
       if (videoSelection == 1) {
-        myVideo.src = "video/selfportrait2.mp4";
+        myVideo.src = "/video/selfportrait2.mp4";
         myVideo.currentTime = 6.5;
         videoSelection = 2;
         aRight.volume = 0.5;
@@ -93,7 +89,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '40') { //down arrow
       if (videoSelection == 1) {
-        myVideo.src = "video/selfportrait2.mp4";
+        myVideo.src = "/video/selfportrait2.mp4";
         myVideo.currentTime = 6.5;
         videoSelection = 2;
         aRight.volume = 0.5;
@@ -105,7 +101,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '37') { //left arrow
       if (videoSelection == 2) {
-        myVideo.src = "video/Selfportrait_1.mp4";
+        myVideo.src = "/video/Selfportrait_1.mp4";
         myVideo.currentTime = 5;
         videoSelection = 1;
         aRight.volume = 0.5;
@@ -117,7 +113,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '39') { //right arrow
       if (videoSelection == 2) {
-        myVideo.src = "video/Selfportrait_1.mp4";
+        myVideo.src = "/video/Selfportrait_1.mp4";
         myVideo.currentTime = 5;
         videoSelection = 1;
         aRight.volume = 0.5;
@@ -132,8 +128,7 @@ aRight.autoplay = true;
 </script>
 
   </body>
-
-</html>
+  </html>
 ```
 
 Here is the sketch: https://patchbae.github.io/self/ 
