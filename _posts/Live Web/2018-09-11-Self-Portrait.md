@@ -28,7 +28,7 @@ Here is the code:
 
   <div style="text-align:center">
     <video id="video1" width="1080" height="720">
-          <source src="Selfportrait_1.mp4" type="video/mp4">
+          <source src="video/Selfportrait_1.mp4" type="video/mp4">
         </video>
   </div>
 
@@ -46,13 +46,13 @@ Here is the code:
 
 <div>
   <audio id="leftAudio" loop type="audio/wav">
-    <source src="LeftChannel.wav">
+    <source src="audio/LeftChannel.wav">
   </audio>
 </div>
 
 <div>
   <audio id="rightAudio" loop type="audio/wav">
-    <source src="RightChannel.wav">
+    <source src="audio/RightChannel.wav">
   </audio>
 </div>
 
@@ -81,7 +81,7 @@ aRight.autoplay = true;
 
     if (e.keyCode == '38') { //up arrow
       if (videoSelection == 1) {
-        myVideo.src = "selfportrait2.mp4";
+        myVideo.src = "video/selfportrait2.mp4";
         myVideo.currentTime = 6.5;
         videoSelection = 2;
         aRight.volume = 0.5;
@@ -93,7 +93,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '40') { //down arrow
       if (videoSelection == 1) {
-        myVideo.src = "selfportrait2.mp4";
+        myVideo.src = "video/selfportrait2.mp4";
         myVideo.currentTime = 6.5;
         videoSelection = 2;
         aRight.volume = 0.5;
@@ -105,7 +105,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '37') { //left arrow
       if (videoSelection == 2) {
-        myVideo.src = "Selfportrait_1.mp4";
+        myVideo.src = "video/Selfportrait_1.mp4";
         myVideo.currentTime = 5;
         videoSelection = 1;
         aRight.volume = 0.5;
@@ -117,7 +117,7 @@ aRight.autoplay = true;
       }
     } else if (e.keyCode == '39') { //right arrow
       if (videoSelection == 2) {
-        myVideo.src = "Selfportrait_1.mp4";
+        myVideo.src = "video/Selfportrait_1.mp4";
         myVideo.currentTime = 5;
         videoSelection = 1;
         aRight.volume = 0.5;
