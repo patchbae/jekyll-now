@@ -9,7 +9,7 @@ Initially for this project, I had wanted to collect data every hour for a week a
 
 So instead I decided to look at a lightshow I programmed for Robotaki's current tour, go cue by cue for two songs, and use color information to create self portraits. We had 14 fixtures, each with ten pixels. 
 
-The first song, 'I Want You' unfolds in the horizontal direction, left to right. Each cue is given equal space in the horizontal domain, regardless of how long the cue actually lasted in the song. The vertical domain is subdivided so that each light pixel is given equal spacing, but the placement is not representative of where the lights actually were. It serves more to show the ratio of colors. 
+The first song, 'I Want You' unfolds in the horizontal direction, left to right. Each cue is given equal space in the horizontal domain, regardless of how long the cue actually lasted in the song. The vertical domain is subdivided so that each light pixel is given equal spacing, with the top half representing the entirety of the top row of lights, and the bottom half representing the bottom row of lights. It serves more to show an overall ratio of colors. 
 
 "[I Want You](https://open.spotify.com/album/3S24p6pOA7aNPDWN0DAWm9)" - Robotaki x Manila Killa
 
