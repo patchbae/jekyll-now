@@ -11,7 +11,7 @@ I downloaded a PDF collection of his work and converted it to a text file. Shiff
 
 Once I had the cleaned up text, I used RiTa to create a word count to only look at words that had ten or more instances. I then used p5.js to draw both the words and word counts, starting from the most used in the top left and continuing left to right, then top to bottom. I then manually created word groupings based on relationships between words, each group with a respective button that colors the words in that group. So all the words are first rendered in white and then can be colored based on which group you would like to examine. I used switch statements to achieve this, but in retrospect I should have created an array for each word grouping instead. 
 
-Here it is: (https://patchbae.github.io/NerudasTopTen/NerudasTopTen/)[Neruda's Top Ten Words]
+Here it is: [https://patchbae.github.io/NerudasTopTen/NerudasTopTen/](Neruda's Top Ten Words)
 
 
 ```
