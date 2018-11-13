@@ -1,6 +1,6 @@
 ---
  layout: post
- title: "Lyric Displ"
+ title: "Samples and Lyrics"
  category: "Performing The Internet"
  
 ---
