@@ -1,0 +1,29 @@
+---
+ layout: post
+ title: "Face:Face"
+ category: "Data Art"
+ 
+---
+
+Face:Face is a data capture and visualization piece utilizing WebSockets and Node.JS in the mobile browser. It is designed to show connections between people who are gathered together in a space or at an event. This system is designed to be easy to setup and run, only requiring good phone service/Wi-Fi, the ability to dim the lighting in the space, a PA system to announce the questions, and a computer to run the server.
+
+The participants will use their phones to access a website that will have a series of yes or no questions. Our server will collect the data and associate it with each device's unique client ID. Once the quiz is completed, the website will display instructions prompting the user to turn their phone's brightness to full and to hold their phone at chest-height, with the display angled towards their face (we will lower the brightness on their browser at this point so that it is not overbearing). After everyone who wishes to participate has finished answering the questions, all of the browsers will go to black and the lights in the room will blackout. 
+
+Each question will be announced and if a user has answered yes to that question, their phone's display will light up, illuminating just their face in the darkness. This is intended to highlight the similarities between people and two show connections that would otherwise go unnoticed. The questions would ideally be tailored to the specific crowd of the event / space, but a more generic quiz could be created to suit a broad range of audiences. By having the questions progress from more specific to more general, the piece would unfold from just small sections of the crowd being lit to having the whole audience illuminated by the end. 
+
+The questions could range from serious and philosophical to the silly and mundane, but would ideally provide a mix of questions so that everyone in the room will be involved. 
+
+
+Have you fallen out of bed before?
+Have you fallen out of love before? 
+Are you afraid of the dark?
+Do you enjoy pineapple on pizza?
+Do you hate Mondays?
+Have you read a book in the past month? 
+Have you ever fallen asleep on public transportation?
+Did you know someone who died of cancer?
+Have you ever locked yourself out of your house?
+Did you grow up with siblings? 
+
+
+
