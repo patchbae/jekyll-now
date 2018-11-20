@@ -8,7 +8,7 @@
 
 For this week's assignment, I created a monophonic, theremin-like synth controlled via tilting one's phone. I initially tried using the Web Audio API, but ran into support issues on mobile browsers, so I switched back to p5.js for the time being. Rolling the phone controls the pitch, and tilting the phone controls the volume. A small ellipse is also drawn to help with visualization.
 
-I tried to figure out a way to lock the device's orientation, but I wasn't able to get that working. I simply left instructions prompting the user to lock their device's orientation. Here is the code:
+I tried to figure out a way to lock the device's orientation, but I wasn't able to get that working. I simply left instructions prompting the user to lock their device's orientation. Here is a [link](https://editor.p5js.org/patchbae/full/BJuAeowam) to the sketch and here is the code:
 
 Server: 
 ```
