@@ -20,7 +20,6 @@ The three main colors (red, cyan, purple) will slowly fade from the top of the s
 A break beam sensor will be placed a few steps before each archway. When the beam is broken, the subsequent archway will turn from its current color to white, with a center-out animation. An Arduino Uno will be used as a microcontroller and will send data to the control computer. 
 
 ![Plan View]({{ site.url }}/images/BIGLEDs_Plan_View.png)
-<img src="{{ site.url }}/images/BIGLEDs_Plan_View.png" width="80%">
 
 
 ![Section View]({{ site.url }}/images/BIGLEDs_Section_View.png)
