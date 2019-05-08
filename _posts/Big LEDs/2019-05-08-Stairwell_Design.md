@@ -9,7 +9,7 @@
 
 For this installation design, I wanted to use a series of LED archways to create the appearance of a tunnel going down from the street-level entrance into the event. 
 
-A total of eight (8) archways would be used. Each archway has an arc length of 9' and will have (180) 12V WS2811 RGB pixel tape.
+A total of eight (8) archways would be used. Each archway has an arc length of 9' and will have (180) 12V WS2811 RGB pixel tape. There will be a total of 72' of LED tape. 
 
 Custom channel strips will be constructed out of aluminum, with the LEDs on the bottom of the archway. Diffusion will be used. 
 
@@ -35,3 +35,19 @@ Four (4) Meanwell 12V power supplies (LRS-350-12) will be used. They are rated a
 There will be one (1) LRS-350-12 for every two archways. 14AWG wire will be used. 
 
 A computer running Madmapper will output Art-Net to a 12V-24V DMX King LEDmx Pro 4, which is the LED tape controller.  The computer will also be running Arduino, which will monitor for breaks in the beam and send the apprpriate triggers to Madmapper via OSC. 
+
+
+##Budget:
+
+25m (82') of 12V RGB Pixel Tape: $20 / meter = $500
+9 x Custom Aluminum Channels with Diffusion = $2000
+5 x Meanwell 12V Power Supplies (LRS-350-12): $42/each = $210
+2 x DMX King LEDmx Pro 4: $150/each = $300
+2 x Arduino UNO Microcontrollers: $25/each = $50
+1000' feet of 14AWG wire: $0.50 per foot = $500
+1 x Macbook Pro = $2500
+Setup and Installation = $2500
+Cartage: $500
+Tax @ 0.08% = $724.80
+
+Total = $9,784.80
