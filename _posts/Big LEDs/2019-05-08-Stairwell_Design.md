@@ -26,10 +26,10 @@ A break beam sensor will be placed a few steps before each archway. When the bea
 ![Section View]({{ site.url }}/images/BIGLEDs_Section_View.png)
 
 
-Current Draw per Archway: 0.06A x 180 = 10.8A
+Current Draw per Archway: 0.06A x 180 = 10.8A  
 Power Consumption per Archway: 10.8A x 12V = 129.6W
 
-Total Current Draw: 10.8A x 8 = 86.4A
+Total Current Draw: 10.8A x 8 = 86.4A  
 Total Power Consumption: 86.4A x 12V = 1036.8W
 
 
