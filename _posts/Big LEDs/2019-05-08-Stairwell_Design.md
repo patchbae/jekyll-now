@@ -36,6 +36,8 @@ There will be one (1) LRS-350-12 for every two archways. 14AWG wire will be used
 
 A computer running Madmapper will output Art-Net to a 12V-24V DMX King LEDmx Pro 4, which is the LED tape controller.  The computer will also be running Arduino, which will monitor for breaks in the beam and send the apprpriate triggers to Madmapper via OSC. 
 
+The computer, power supplies, and arduino will be placed at the bottom of the stairs to left, so it is not visible while walking down the stairs. 
+
 
 ##Budget:
 
@@ -44,7 +46,7 @@ A computer running Madmapper will output Art-Net to a 12V-24V DMX King LEDmx Pro
 5 x Meanwell 12V Power Supplies (LRS-350-12): $42/each = $210
 2 x DMX King LEDmx Pro 4: $150/each = $300
 2 x Arduino UNO Microcontrollers: $25/each = $50
-1000' feet of 14AWG wire: $0.50 per foot = $500
+1000' feet of 3-conductor 14AWG wire: $0.50 per foot = $500
 1 x Macbook Pro = $2500
 Setup and Installation = $2500
 Cartage: $500
