@@ -29,7 +29,8 @@ Total Current Draw: 10.8A x 8 = 86.4A
 Total Power Consumption: 86.4A x 12V = 1036.8W
 
 
-Four (4) Meanwell 12V power supplies (LRS-350-12) will be used. They are rated at 29A and 348W. There will be one (1) LRS-350-12 for every two archways. 
+Four (4) Meanwell 12V power supplies (LRS-350-12) will be used. They are rated at 29A and 348W.
+There will be one (1) LRS-350-12 for every two archways. 14AWG wire will be used. 
 
 A computer running Madmapper will output Art-Net to a 12V-24V DMX King LEDmx Pro 4, which is the LED tape controller.  The computer will also be running Arduino, which will monitor for breaks in the beam and send the apprpriate triggers to Madmapper via OSC. 
 
