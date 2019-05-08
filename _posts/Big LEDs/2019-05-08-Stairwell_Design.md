@@ -20,6 +20,8 @@ The three main colors (red, cyan, purple) will slowly fade from the top of the s
 A break beam sensor will be placed a few steps before each archway. When the beam is broken, the subsequent archway will turn from its current color to white, with a center-out animation. An Arduino Uno will be used as a microcontroller and will send data to the control computer. 
 
 ![Plan View]({{ site.url }}/images/BIGLEDs_Plan_View.png)
+<img src="{{ site.url }}/images/BIGLEDs_Plan_View.png" width="200">
+
 
 ![Section View]({{ site.url }}/images/BIGLEDs_Section_View.png)
 
@@ -39,7 +41,7 @@ A computer running Madmapper will output Art-Net to a 12V-24V DMX King LEDmx Pro
 The computer, power supplies, and arduino will be placed at the bottom of the stairs to left, so it is not visible while walking down the stairs. 
 
 
-##Budget:
+## Budget:
 
 25m (82') of 12V RGB Pixel Tape: $20 / meter = $500
 
