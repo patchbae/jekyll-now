@@ -5,7 +5,7 @@
  
 ---
 
-"Create an LED installation for a stairwell that enters down into an event. The ‘visual priority’ is the entrance down the stairs, not the exit up the stairs."
+*"Create an LED installation for a stairwell that enters down into an event. The ‘visual priority’ is the entrance down the stairs, not the exit up the stairs."*
 
 For this installation design, I wanted to use a series of LED archways to create the appearance of a tunnel going down from the street-level entrance into the event. 
 
