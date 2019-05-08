@@ -15,7 +15,9 @@ Custom channel strips will be constructed out of aluminum, with the LEDs on the 
 
 ![Rough Sketch]({{ site.url }}/images/BIGLEDs_Stairs.png)
 
-A break beam sensor will be placed a few steps before each archway. An Arduino Uno will be used as the microcontroller and will send data to the main control computer. When the beam is broken, the subsequent archway will turn from its resting color to white, with a center-out animation. 
+The three main colors (red, cyan, purple) will slowly fade from the top of the stairs to the bottom. 
+
+A break beam sensor will be placed a few steps before each archway. When the beam is broken, the subsequent archway will turn from its current color to white, with a center-out animation. An Arduino Uno will be used as a microcontroller and will send data to the control computer. 
 
 ![Plan View]({{ site.url }}/images/BIGLEDs_Plan_View.png){width=80%}
 
