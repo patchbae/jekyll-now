@@ -42,14 +42,23 @@ The computer, power supplies, and arduino will be placed at the bottom of the st
 ##Budget:
 
 25m (82') of 12V RGB Pixel Tape: $20 / meter = $500
+
 9 x Custom Aluminum Channels with Diffusion = $2000
+
 5 x Meanwell 12V Power Supplies (LRS-350-12): $42/each = $210
+
 2 x DMX King LEDmx Pro 4: $150/each = $300
+
 2 x Arduino UNO Microcontrollers: $25/each = $50
+
 1000' feet of 3-conductor 14AWG wire: $0.50 per foot = $500
+
 1 x Macbook Pro = $2500
+
 Setup and Installation = $2500
+
 Cartage: $500
+
 Tax @ 0.08% = $724.80
 
 Total = $9,784.80
